@@ -50,7 +50,7 @@ function decider(x)
 
 Next Problem:
 
-What separates an integer from a real number?
+What separates an whole number from a real number?
 
 -----
 
