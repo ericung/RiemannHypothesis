@@ -41,7 +41,7 @@ function decider(x)
 			x++;
 			if (x == 0)
 			{
-				return 1/2;
+				return 0;
 			}
 		}
 	}
