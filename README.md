@@ -8,6 +8,11 @@
 
 ![02Derivative](Resources/02Derivative.jpg)
 
+### 3. X^3/X Halts
+
+``` javascript
+
+```
 -----
 
 ### References
