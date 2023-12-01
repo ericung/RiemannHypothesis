@@ -12,39 +12,52 @@
 
 ![03X^3_XHalts](Resources/03X^3_XHalts.jpg)
 
+The following is a condensed decider that returns the result of the path.
+
+-x + y + z = a\
+-x + y + z = -a
+
+a and -a represent the complex number, i
+
 ``` javascript
+-x + y + z = a
 function decider(x)
 {
 	while (x != 0)
 	{
+		// -x
 		if (x > 0)
 		{
 			x--;
 			if (x == 0)
 			{
-				return 1/2;
+				return 1/2; // a
 			}
 
 		}	
 
+		// y
 		if (x < 0)
 		{
 			x++;
 			if (x == 0)
 			{
-				return 1/2;
+				return 1/2; // a
 			}
 		}
 
+		// z
 		if (x < 0)
 		{
 			x++;
 			if (x == 0)
 			{
-				return 0;
+				return 0; // a
 			}
 		}
 	}
+
+	return 0; // a
 }
 ```
 
