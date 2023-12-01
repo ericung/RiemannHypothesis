@@ -69,6 +69,8 @@ What separates a whole number from a real number?
 
 ### References
 
+Mitra., A. (2021). University of Minnesota. Retrieved November 30, 2023, from https://www-users.cse.umn.edu/~am/
+
 Ung, E. (2024). Topology Of Javascript. https://github.com/ericung/TopologyOfJavascript
 
 Ung, E. (2024). Harmonic Monomial Deciders. https://github.com/ericung/HarmonicMonomialDeciders
