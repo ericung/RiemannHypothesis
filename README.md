@@ -57,7 +57,7 @@ function decider(x)
 		}
 	}
 
-	return 0; // returns a and -a <=> i
+	return 1/2; // returns a and -a <=> i
 }
 ```
 
