@@ -63,7 +63,7 @@ function decider(x)
 
 Next Problem:
 
-What separates an whole number from a real number?
+What separates a whole number from a real number?
 
 -----
 
