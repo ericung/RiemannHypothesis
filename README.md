@@ -31,7 +31,7 @@ function decider(x)
 			x--;
 			if (x == 0)
 			{
-				return 1/2; // a
+				return 1/2; // returns a and -a <=> i
 			}
 
 		}	
@@ -42,7 +42,7 @@ function decider(x)
 			x++;
 			if (x == 0)
 			{
-				return 1/2; // a
+				return 1/2; // returns a and -a <=> i
 			}
 		}
 
@@ -52,12 +52,12 @@ function decider(x)
 			x++;
 			if (x == 0)
 			{
-				return 0; // a
+				return 0; // returns a and -a <=> i
 			}
 		}
 	}
 
-	return 0; // a
+	return 0; // returns a and -a <=> i
 }
 ```
 
